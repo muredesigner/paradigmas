@@ -1,0 +1,30 @@
+¿Qué es una base de datos?
+Una base de datos es un conjunto de información organizada y estructurada
+que se almacena en un sistema informático. Las bases de datos se utilizan para almacenar
+y recuperar información de manera eficiente y segura, y son una herramienta fundamental
+en la gestión de información de una organización.
+
+¿Qué paradigmas de base de datos conoces? ¿En qué consiste cada paradigma y cuáles son sus ventajas?
+
+Existen varios paradigmas de bases de datos, cada uno con sus propias características y ventajas.
+Algunos de los paradigmas más comunes son:
+
+-Modelo relacional: Este modelo organiza los datos en tablas, donde cada tabla representa una
+entidad y cada columna representa un atributo de la entidad. Las relaciones entre las entidades
+se establecen mediante claves primarias y foráneas. El modelo relacional es el más estudiado, 
+comercializado y utilizado, y es muy popular debido a su facilidad de uso, escalabilidad y rendimiento.
+
+-Modelo orientado a documentos: Este modelo almacena los datos en documentos, que pueden ser
+estructurados o no estructurados. Los documentos se organizan en colecciones, y cada documento
+puede tener diferentes campos y valores. El modelo orientado a documentos es muy popular debido
+a su escalabilidad, flexibilidad y capacidad para manejar grandes volúmenes de datos no estructurados.
+
+-Modelo orientado a columnas: Este modelo almacena los datos en columnas en lugar de filas.
+Cada columna representa un atributo, y las filas representan instancias de los datos. El modelo
+orientado a columnas es muy eficiente en el almacenamiento y la recuperación de datos, y es muy
+utilizado en aplicaciones de análisis de datos.
+
+-Modelo llave-valor: Este modelo almacena los datos como pares de llave-valor. Cada valor se
+almacena con una clave única, lo que permite un acceso rápido a los datos. El modelo llave-valor
+es muy eficiente en la recuperación de datos y es muy utilizado en aplicaciones de caché y
+almacenamiento en memoria.
